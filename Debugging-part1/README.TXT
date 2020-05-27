@@ -1,1 +1,1 @@
-PROJECT TITLE: Debug exercicse
+PROJECT TITLE: Debug exercise
