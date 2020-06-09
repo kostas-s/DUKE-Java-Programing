@@ -1,0 +1,5 @@
+(36.95, -121.57), mag = 1.00, depth = -8660.00, title = 6km S of Gilroy, California
+(38.82, -122.77), mag = 1.40, depth = -1300.00, title = 3km W of Cobb, California
+(35.68, -118.10), mag = 1.50, depth = -8280.00, title = 27km W of Inyokern, California
+(36.22, -117.89), mag = 2.60, depth = -1450.00, title = 12km ESE of Olancha, California
+(-23.27, -67.66), mag = 4.80, depth = -175320.00, title = 69km SE of San Pedro de Atacama, Chile
