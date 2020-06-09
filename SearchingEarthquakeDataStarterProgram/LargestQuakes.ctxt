@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LargestQuakes
+comment1.params=sourceFile
+comment1.target=LargestQuakes(java.lang.String)
+comment2.params=howMany
+comment2.target=void\ findLargestQuakes(int)
+comment3.params=data
+comment3.target=int\ indexOfLargest(java.util.ArrayList)
+comment4.params=quakeData\ howMany
+comment4.target=java.util.ArrayList\ getLargest(java.util.ArrayList,\ int)
+numComments=5
